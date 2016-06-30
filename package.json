@@ -1,13 +1,12 @@
 {
   "name": "synaptic-text-classification-example",
   "version": "1.0.0",
-  "description": "",
   "main": "bag-of-words-model.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "natural": "^0.4.0",
     "node-normalizer": "^0.1.4",
